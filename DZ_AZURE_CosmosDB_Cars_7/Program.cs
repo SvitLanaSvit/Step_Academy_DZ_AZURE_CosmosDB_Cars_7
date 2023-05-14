@@ -3,7 +3,7 @@ using Microsoft.Azure.Cosmos;
 using System;
 
 string endpointUrl = "https://cosmossvit.documents.azure.com:443/";
-string accountKey = "TJgMjMJBwCqRAd4i0lqyBsRupLJYFfy7TGxwGWAHlYQJOif59MxIXFPhOxUICrUn7HG5H2GkMCIaACDbSVijjQ==";
+string accountKey = "****************************";
 
 string dataBaseId = "blogDatabase";
 string containerId = "blogContainer";
